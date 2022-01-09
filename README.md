@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya13s
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Data Strucrures and Algorithms, Web Developments
+- 🌱 I’m currently learning Data Structures and Algorithms, Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
