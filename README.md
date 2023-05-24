@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Doubtless App<br>📫 How to reach me adityasharma131003@gmail.com
+🔭 I’m currently working on Personal Projects<br>📫 How to reach me adityasharma131003@gmail.com
 
 
 ## 🌐 Socials:
